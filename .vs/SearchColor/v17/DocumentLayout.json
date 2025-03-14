@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T122115\\Desktop\\SearchColor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\searchcolor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\searchcolor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\colorfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\colorfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\searchcolor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\searchcolor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\customcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\customcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|c:\\users\\t122115\\desktop\\searchcolor\\searchcolor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB24291-CE89-46B2-8C88-3A20EF4AB6A2}|SearchColor\\SearchColor.csproj|solutionrelative:searchcolor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAAK4CAAAAAAAAAAAUwNACAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-28T16:23:47.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchColor",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\SearchColor.csproj",
+              "RelativeDocumentMoniker": "SearchColor\\SearchColor.csproj",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\SearchColor.csproj",
+              "RelativeToolTip": "SearchColor\\SearchColor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T16:14:13.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchColor",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\SearchColor.csproj",
+              "RelativeDocumentMoniker": "SearchColor\\SearchColor.csproj",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\SearchColor.csproj",
+              "RelativeToolTip": "SearchColor\\SearchColor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T15:45:46.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SearchColor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\MainWindow.xaml",
+              "RelativeToolTip": "SearchColor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T06:38:12.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\App.xaml",
+              "RelativeDocumentMoniker": "SearchColor\\App.xaml",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\App.xaml",
+              "RelativeToolTip": "SearchColor\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T15:38:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorFileManager.cs",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\ColorFileManager.cs",
+              "RelativeDocumentMoniker": "SearchColor\\ColorFileManager.cs",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\ColorFileManager.cs",
+              "RelativeToolTip": "SearchColor\\ColorFileManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:29:15.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\CustomColorConverter.cs",
+              "RelativeDocumentMoniker": "SearchColor\\CustomColorConverter.cs",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\CustomColorConverter.cs",
+              "RelativeToolTip": "SearchColor\\CustomColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:09:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SearchColor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SearchColor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwDAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:17:07.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SearchColor\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\T122115\\Desktop\\SearchColor\\SearchColor\\App.xaml.cs",
+              "RelativeToolTip": "SearchColor\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:16:58.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
